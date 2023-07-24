@@ -1,1 +1,24 @@
-/*  your css code here. If applicable */
+*{
+	background-color:rgb(135, 206, 235);
+	
+}
+.para{
+	background-color:black;
+	color:white;
+}
+.para3{
+	color:red;
+}
+li{
+	width:50%;
+	background-color:grey;
+}
+.f1{
+	background-color:white;
+}
+.f3{
+	background-color:pink;
+}
+.f5{
+	background-color:white;
+}
