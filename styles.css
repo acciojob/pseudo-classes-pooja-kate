@@ -11,9 +11,11 @@
 }
 li{
 	width:50%;
+	padding:10px;
 	background-color:grey;
 }
 .f1{
+	font-size:22px;
 	background-color:white;
 }
 .f3{
@@ -21,4 +23,5 @@ li{
 }
 .f5{
 	background-color:white;
+	font-size:22px;
 }
